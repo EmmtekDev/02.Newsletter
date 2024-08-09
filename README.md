@@ -1,4 +1,5 @@
 # Frontend Mentor - Newsletter sign-up form with success message
+# Check out the project here: https://emmtekdev.github.io/02.Newsletter/
 
 ![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)
 
